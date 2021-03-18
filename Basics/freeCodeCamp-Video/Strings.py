@@ -1,3 +1,4 @@
+# functions that are specific to another function are methods (examples belwo)
 print("1", "Giraffe\nAcademy")  # \n = new line
 Name = "Danny Hatcher"
 

@@ -1,7 +1,7 @@
 '''
 open("file location", "r")  # read mode
-open("file location", "W")  # write mode
-open("file location", "a")  # append mode
+open("file location", "W")  # write mode (overwrite existing or make new file)
+open("file location", "a")  # append mode (add text at the end)
 open("file location", "r+")  # read and write mode
 '''
 

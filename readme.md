@@ -1,6 +1,8 @@
 # Learning resource for future reference
 
-Video reference: https://www.youtube.com/watch?v=rfscVS0vtbw
-Progress: 4:08:51
+#### Notes taken in newer videos do not overlap from previous videos.
 
-The comments below lines of code refer to the line above (due to saving text wrapping).
+freeCodeCamp video: https://www.youtube.com/watch?v=rfscVS0vtbw
+Progress: 4:26:51 COMPLETE
+Programming with Mosh: https://www.youtube.com/watch?v=_uQrJ0TkZlc
+Progress: 0:48:39

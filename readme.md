@@ -5,4 +5,5 @@
 freeCodeCamp video: https://www.youtube.com/watch?v=rfscVS0vtbw
 Progress: 4:26:51 COMPLETE
 Programming with Mosh: https://www.youtube.com/watch?v=_uQrJ0TkZlc
-Progress: 0:48:39
+Progress: 1:16:25
+Decorators - Dynamically : https://www.youtube.com/watch?v=FsAPt_9Bf3U&list=WL&index=2
